@@ -1,6 +1,7 @@
 # Discord-Report-Bot
 ----------
 ## Mass Report A discord message, ban anyone.
+## Download latest .exe [here](https://github.com/fknMega/Discord-Report-Bot/releases/tag/releases)
 ### using [Leaf.xNet](https://github.com/csharp-leaf/Leaf.xNet), we are able to spam discord's report api.
 
 [![Github All Releases](https://img.shields.io/github/downloads/fknMega/Discord-Report-Bot/total.svg)]()
