@@ -6,6 +6,8 @@
 
 [![Github All Releases](https://img.shields.io/github/downloads/fknMega/Discord-Report-Bot/total.svg)]()
 
+A better Multi Account support version: [here](https://github.com/fknMega/multi-token-discord-report-bot)
+
 Download the latest exe [here](https://github.com/fknMega/Discord-Report-Bot/releases/tag/releases)
 
 ### Type in reason a number:
